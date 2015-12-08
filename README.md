@@ -1,6 +1,8 @@
 # <b><i>PMPlugins</i></b>
 # Development
 
+[![Join the chat at https://gitter.im/PocketKiller/Development](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PocketKiller/Development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > This is where we upload code under development!
 --- <b>jojoe77777 & Legoboy0215</b>
 
